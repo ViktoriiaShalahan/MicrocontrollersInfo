@@ -1,0 +1,17 @@
+﻿@model IEnumerable<MicrocontrollersInfo.Entity.Microcontrollers>
+
+
+@{
+    ViewBag.Title = "InfoWithPaging";
+}
+
+<h2>Пошук за маркою</h2>
+
+@foreach (var m in @Model)
+{
+    <div class="row panel">
+        <div class="col-xs-12">
+            <h3><strong>@m.brand</strong></h3>
+        </div>
+    </div>
+}

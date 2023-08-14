@@ -1,0 +1,18 @@
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Commonn\bin\Debug\Common.dll
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Commonn\bin\Debug\Common.pdb
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Commonn\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Commonn\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Commonn\obj\Debug\Common.dll
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Commonn\obj\Debug\Common.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Commonn\bin\Debug\Common.dll
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Commonn\bin\Debug\Common.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Commonn\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Commonn\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Commonn\obj\Debug\Common.dll
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Commonn\obj\Debug\Common.pdb
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Commonn\bin\Debug\Common.dll
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Commonn\bin\Debug\Common.pdb
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Commonn\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Commonn\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Commonn\obj\Debug\Common.dll
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Commonn\obj\Debug\Common.pdb

@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+<style>
+    .btn-dark {
+        color: black;
+        background-color: #e0e0e0;
+        background-position: 0 -15px;
+    }
+</style>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>About</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div class="navbar navbar-inverse">
+        <a class="navbar-brand hidden-xs" href="/">
+            ПО "Мікроконтролери": інформація про мікроконтролери
+        </a>
+        <a class="navbar-brand visible-xs" href="/">ПО "Мікроконтролери"</a>
+    </div>
+
+    <div class="row panel">
+        @Html.ActionLink("На головну", "Index", "Home", null,
+            new { @class = "btn btn-block  btn-lg btn-dark " })
+    </div>
+    <div>
+        <p style="text-align:justify; font-size:20px; margin-left: 20px; margin-right: 30px;">
+        Мікроконтролери можна зустріти в багатьох сучасних приладах, таких як телефони, пральні машини, вони відповідають за роботу двигунів і систем гальмування сучасних автомобілів, з їх допомогою створюються системи контролю і системи збору інформації. На основі мікроконтролерів проектують та створюють вимірювальні пристрої, системи керування об'єктами та процесами, вони є основою охоронних, протипожежних систем, домофонів, сигналізацій тощо.Більшість процесорів, що випускаються у світі — мікроконтролери.
+        </p>
+        
+    </div>
+</body>
+</html>

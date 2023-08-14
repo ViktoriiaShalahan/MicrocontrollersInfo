@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@*<h2>Index</h2>*@
+<h1>Огляд ПО "Мікроконтролери"</h1>
+<h2>Перегляд даних</h2>
+
+<div class="row panel">
+    @Html.ActionLink("Мікроконтролери",
+        "Index", "Microcontrollers", null,
+        new { @class = "btn btn-block  btn-lg btn-dark" })
+</div>
+<div class="row panel">
+    @Html.ActionLink("Типи корпусів",
+        "Index", "HousingType", null,
+        new { @class = "btn btn-block  btn-lg btn-dark" })
+</div>
+

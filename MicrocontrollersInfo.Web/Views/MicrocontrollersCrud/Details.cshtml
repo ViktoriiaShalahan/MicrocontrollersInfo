@@ -1,0 +1,66 @@
+﻿@model MicrocontrollersInfo.Web.Models.MicrocontrollersEditingModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Детальніше</h2>
+<p>@Html.ActionLink("Назад", "Index", "Home")</p>
+<div>
+ 
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Brand)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Brand)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.housingTypeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.housingTypeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BitRate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BitRate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Note)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Note)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Редагувати", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Повернутися до списку", "Index")
+</p>

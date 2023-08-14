@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="MicrocontrollersInfo.Entity.DataContext">
+    <Position X="0.5" Y="2.25" Width="3.5" />
+    <Members>
+      <Method Name="Clear" Hidden="true" />
+      <Method Name="CreateHousingType" Hidden="true" />
+      <Method Name="CreateMicrocontrollers" Hidden="true" />
+      <Method Name="CreateTestingData" Hidden="true" />
+      <Method Name="DataContext" Hidden="true" />
+      <Method Name="ToString" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>QDACgJAAAAAwAAAEAAAAAAAACAAIAAAACABAAABAAAI=</HashCode>
+      <FileName>DataContext.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="FileIoController" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MicrocontrollersInfo.Entity.XmlFileIoController">
+    <Position X="0.5" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAkIAAAAAAAAAAAAAAAAgAAAAgIQAAAAEAAAAAAAA=</HashCode>
+      <FileName>FileIO\XmlFileIoController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MicrocontrollersInfo.Entity.FileIO.BinarySerializationAdapter">
+    <Position X="4.25" Y="6.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ACAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>FileIO\BinarySerializationAdapter.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="fileIoController" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Common.IO.GenericBinarySerializationController&lt;T&gt;">
+    <Position X="4.25" Y="8.75" Width="3" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="MicrocontrollersInfo.Entity.FileIO.Interfaces.IFileIoController">
+    <Position X="5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>FileIO\Interfaces\IFileIoController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

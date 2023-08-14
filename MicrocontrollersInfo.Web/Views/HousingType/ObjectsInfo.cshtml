@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MicrocontrollersInfo.Entity.HousingType>
+
+@{
+    //ViewBag.Title = "ObjectsInfo";
+    ViewBag.Title = "Мікроконтролери";
+}
+
+@*<h2>ObjectsInfo</h2>*@
+<h2>Типи корпусів</h2>
+
+<p>@Html.ActionLink("Назад", "Index")</p>
+@foreach (var m in @Model)
+{
+    <div class="row panel">
+        <div class="col-xs-12">
+            @Html.InformationHeader(@m.name)
+            @Html.ValueInfo("Абревіатура", @m.abbreviation)
+            @Html.ValueInfo("Кількість рядів ніжок", @m.numberRows)
+            @if (!string.IsNullOrEmpty(@m.note))
+            {
+                @Html.StringInfo("Примітка:")
+                @Html.DescriptiveBlock(@m.note)
+            }
+        </div>
+    </div>
+    @Html.Action("_DescriptiveInfo", new { id = @m.Id })
+}
+
+

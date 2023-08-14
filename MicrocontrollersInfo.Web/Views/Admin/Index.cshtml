@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<style>
+    .btn-dark {
+        color: black;
+        background-color: #e0e0e0;
+        background-position: 0 -15px;
+    }
+</style>
+@*<h2>Index</h2>*@
+<h2>Редагування даних сутностей ПО "Мікроконтролери"</h2>
+
+<div class="row panel">
+    @Html.ActionLink("Мікроконтролери",
+            "Index", "MicrocontrollersCrud", null,
+            new { @class = "btn btn-block btn-dark btn-lg" })
+</div>
+
+<div class="row panel">
+    @Html.ActionLink("Типи корпусів",
+            "Index", "HousingTypeCrud", null,
+            new { @class = "btn btn-block btn-dark btn-lg" })
+</div>
+
+

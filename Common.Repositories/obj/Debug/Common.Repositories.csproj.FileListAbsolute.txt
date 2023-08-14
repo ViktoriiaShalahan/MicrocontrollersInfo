@@ -1,0 +1,54 @@
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\bin\Debug\Common.Repositories.dll
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\bin\Debug\Common.Repositories.pdb
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\bin\Debug\Common.Entities.dll
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\bin\Debug\Common.Entities.pdb
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\obj\Debug\Common.Repositories.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\obj\Debug\Common.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\obj\Debug\Common.Repositories.csproj.CopyComplete
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\obj\Debug\Common.Repositories.dll
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\obj\Debug\Common.Repositories.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\bin\Debug\Common.Repositories.dll
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\bin\Debug\Common.Repositories.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\bin\Debug\Common.Entities.dll
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\bin\Debug\Common.Entities.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\obj\Debug\Common.Repositories.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\obj\Debug\Common.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\obj\Debug\Common.Repositories.csproj.CopyComplete
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\obj\Debug\Common.Repositories.dll
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.Repositories\obj\Debug\Common.Repositories.pdb
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Repositories.dll
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Repositories.pdb
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Entities.dll
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Entities.pdb
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.csproj.CopyComplete
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.dll
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Repositories.dll
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Repositories.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Entities.dll
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Entities.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.csproj.CopyComplete
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.dll
+C:\Users\victoriashalahan\VTC 2022-2023\Курсовий прог\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.pdb
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Repositories.dll
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Repositories.pdb
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Entities.dll
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Entities.pdb
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.csproj.CopyComplete
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.dll
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Repositories.dll
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Repositories.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Entities.dll
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.Repositories\bin\Debug\Common.Entities.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.csproj.CopyComplete
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.dll
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.Repositories\obj\Debug\Common.Repositories.pdb

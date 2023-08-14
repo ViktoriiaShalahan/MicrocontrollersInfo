@@ -1,0 +1,18 @@
+﻿@model IEnumerable<MicrocontrollersInfo.Web.Models.HousingTypeBrowsingModel>
+
+
+@foreach (var m in @Model)
+{
+    <div class="row panel">
+        <div class="col-xs-12">
+            <h3>
+                <strong>@m.Name</strong>
+            </h3>
+            <strong class="lead">Абревіатура: @m.Abbreviation</strong><br />
+            <strong class="lead">Кількість рядів ніжок: @m.NumberRows</strong><br />
+          
+
+        </div>
+    </div>
+}
+

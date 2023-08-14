@@ -1,0 +1,51 @@
+﻿@model IEnumerable<MicrocontrollersInfo.Web.Models.MicrocontrollersBrowsingModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Дані про мікроконтролери</h2>
+<p>@Html.ActionLink("Назад", "Index", "Home")</p>
+<p>
+    @Html.ActionLink("Створити новий", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.housingTypeName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BitRate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Brand)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.housingTypeName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BitRate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.ActionLink("Редагувати", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Детальніше", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Видалити", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

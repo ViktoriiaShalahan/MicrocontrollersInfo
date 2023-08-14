@@ -1,0 +1,16 @@
+﻿@model IEnumerable<MicrocontrollersInfo.Web.Models.MicrocontrollersBrowsingModel>
+
+
+
+@foreach (var m in @Model) {
+    <div class="row panel">
+        <div class="col-xs-12">
+            <h3>
+                <strong>@m.Brand</strong>
+            </h3>
+            <strong class="lead">Тип корпусу: @m.housingTypeName</strong><br />
+            <strong class="lead">Розрядність: @m.BitRate</strong><br />
+            <strong class="lead">Ціна (грн.): @m.Price </strong><br />
+        </div>
+    </div>
+}

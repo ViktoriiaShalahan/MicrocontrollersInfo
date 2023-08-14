@@ -1,0 +1,56 @@
+﻿@model IEnumerable<MicrocontrollersInfo.Web.Models.MicrocontrollersBrowsingModel>
+
+@{
+    ViewBag.Title = "Selection";
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml";
+}
+
+<h2>Мікроконтролери</h2>
+<p>@Html.ActionLink("Назад", "Index")</p>
+
+@*<div class="row panel">
+        <div id="parameters" class="col-sm-2">
+            <h3>Параметри</h3>
+            @Html.Partial("_SelectionForm")
+        </div>
+        <div class="col-sm-10">
+            <h2>Мікроконтролери</h2>
+            <table class="table">
+                <thead>
+                    @Html.Partial("_TableHead", @Model)
+                </thead>
+                <tbody id="data">
+                    @Html.Partial("_TableBody", @Model)
+                </tbody>
+            </table>
+        </div>
+    </div>*@
+
+<table class="table">
+
+
+    <thead>
+        @Html.Partial("_TableHead", Model)
+    </thead>
+    <tbody id="data">
+        @Html.Partial("_TableBody", Model)
+    </tbody>
+
+</table>
+<style>
+    .par {
+        margin-left: 40px;
+        
+    }
+</style>
+
+
+@section NavMenu {
+    <div id="parameters">
+        <div class="par">
+            <h3>Параметри</h3>
+        </div>
+      
+        @Html.Partial("_SelectionForm")
+    </div>
+}

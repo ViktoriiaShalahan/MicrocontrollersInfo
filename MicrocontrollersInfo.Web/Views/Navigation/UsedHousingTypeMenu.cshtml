@@ -1,0 +1,27 @@
+﻿@model IEnumerable<string>
+<style>
+    .btn-dark {
+        color: black;
+        background-color: #e0e0e0;
+        background-position: 0 -15px;
+    }
+</style>
+<h3>Тип корпусу</h3>
+
+@foreach (var link in Model)
+{
+    @Html.RouteLink(
+        link.Length < 20 ? link : link.Substring(0, 17) + "...",
+        new
+            {
+                controller = "Microcontrollers",
+            action = "MicrocontrollersByHousingTypeInfo",
+            categoryName = link
+        },
+        new
+            {
+            @class = "btn btn-block  btn-lg btn-nav_menu btn-dark"
+                + (link == ViewBag.SelectedCategoryName ? " btn-primary" : "")
+        })
+}
+

@@ -1,0 +1,36 @@
+﻿@using (Ajax.BeginForm(
+    "_SelectData",
+        new AjaxOptions
+        {
+            UpdateTargetId = "data",
+            LoadingElementId = "loading",
+            LoadingElementDuration = 1000
+        }
+        ))
+{
+
+    <style>
+        .price {
+            margin-left: 40px;
+        }
+    </style>
+    <div class="price">
+        <p>
+            Початок назви<br />
+            <input class="form-control" type="text" name="SelName" />
+        </p>
+
+        <p>
+            Кількість рядів ніжок<br />
+            від <input class="form-control" type="text" name="NumberRowsFrom" /><br />
+            до <input class="form-control" type="text" name="NumberRowsTo" />
+        </p>
+        <p>
+            <input class="form-control" type="submit" value="Відібрати" style="background-color: #e0e0e0; color: black;  background-position: 0 -15px; " />
+        </p>
+        <div id="loading" class="load" style="display:none">
+            <p>Завантаження даних...</p>
+        </div>
+    </div>   
+    }
+

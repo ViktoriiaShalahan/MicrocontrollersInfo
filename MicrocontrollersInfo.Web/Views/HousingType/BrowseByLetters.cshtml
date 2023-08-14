@@ -1,0 +1,43 @@
+﻿@model IEnumerable<MicrocontrollersInfo.Web.Models.HousingTypeBrowsingModel>
+
+@{
+    ViewBag.Title = "BrowseByLetters";
+}
+<style>
+    .btn-dark {
+        color: black;
+        background-color: #e0e0e0;
+        background-position: 0 -15px;
+    }
+</style>
+
+@*<h2>BrowseByLetters</h2>*@
+<h2>Типи корпусів</h2>
+<p>@Html.ActionLink("Назад", "Index")</p>
+<div class="ajaxLink">
+    @foreach (string letter in @ViewBag.Letters as IEnumerable<string>)
+    {
+        @Ajax.ActionLink(
+            letter,
+            "_GetDataByLetter",
+            new { selLetter = letter },
+            new AjaxOptions
+                 {
+                UpdateTargetId = "data",
+                LoadingElementId = "loading",
+                LoadingElementDuration = 1000
+            },
+            new { @class = "btn btn-default btn-dark" }
+        )
+    }
+</div>
+
+<div id="loading" class="load" style="display:none">
+    <p>Завантаження даних...</p>
+</div>
+
+<div id="data">
+    @Html.Action("_GetDataByLetter",
+        new { selLetter = @RouteConfig.ALL_PAGES })
+</div>
+

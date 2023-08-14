@@ -1,0 +1,11 @@
+﻿@model IEnumerable<string>
+
+@if (@Model != null)
+{
+    <hr />
+    foreach (var m in @Model)
+    {
+        <p class="lead">@m</p>
+    }
+    <hr />
+}

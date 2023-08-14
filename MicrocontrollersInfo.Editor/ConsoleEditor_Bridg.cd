@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="MicrocontrollersInfo.Entity.DataContext">
+    <Position X="0.75" Y="1.5" Width="3.25" />
+    <Members>
+      <Method Name="Clear" Hidden="true" />
+      <Method Name="CreateMicrocontrollers" Hidden="true" />
+      <Method Name="CreateTestingData" Hidden="true" />
+      <Method Name="DataContext" Hidden="true" />
+      <Method Name="ToString" Hidden="true" />
+    </Members>
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="FileIoController" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MicrocontrollersInfo.Entity.XmlFileIoController">
+    <Position X="0.75" Y="4.5" Width="3.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MicrocontrollersInfo.Entity.FileIO.BinarySerializationAdapter">
+    <Position X="4.75" Y="4.5" Width="3" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MicrocontrollersInfo.Editor.Editor" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AABAidCCBgKAAQAICAAcsIAEAQMAAEAgIEmAoKTEgAI=</HashCode>
+      <FileName>Editor.commands.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="dataContext" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="MicrocontrollersInfo.Entity.FileIO.Interfaces.IFileIoController">
+    <Position X="4.75" Y="1.5" Width="3" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,34 @@
+﻿@model IEnumerable<MicrocontrollersInfo.Web.Models.HousingTypeBrowsingModel>
+
+@{
+    ViewBag.Title = "Selection";
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml";
+}
+
+<h2>Типи корпусів</h2>
+<p>@Html.ActionLink("Назад", "Index")</p>
+<table class="table">
+
+
+    <thead>
+        @Html.Partial("_TableHead", Model)
+    </thead>
+    <tbody id="data">
+        @Html.Partial("_TableBody", Model)
+    </tbody>
+
+</table>
+<style>
+    .par {
+        margin-left: 40px;
+    }
+</style>
+
+@section NavMenu {
+    <div id="parameters">
+        <div class="par">
+            <h3>Параметри</h3>
+        </div>
+            @Html.Partial("_SelectionForm")
+        </div>
+}

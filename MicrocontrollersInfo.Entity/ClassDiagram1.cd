@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="MicrocontrollersInfo.Entity.DataContext">
+    <Position X="6.5" Y="4" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>QDACgJAAAAAwAAAEAAAAAAAACAAIAAAACABAAABAAAI=</HashCode>
+      <FileName>DataContext.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="dataSet" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MicrocontrollersInfo.Entity.DataSet">
+    <Position X="6.5" Y="0.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>DataSet.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="housingTypes" />
+      <Property Name="microcontrollers" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="MicrocontrollersInfo.Entity.HousingType">
+    <Position X="0.5" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAQAAAAAAEIAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HousingType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MicrocontrollersInfo.Entity.Microcontrollers">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQEBAAAAAAAAAAAEIAAAAAAAAAAAAAIACAAAAAAAAAA=</HashCode>
+      <FileName>Microcontroller.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="housingType" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

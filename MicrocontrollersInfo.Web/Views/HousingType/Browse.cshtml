@@ -1,0 +1,52 @@
+﻿@model IEnumerable<MicrocontrollersInfo.Web.Models.HousingTypeBrowsingModel>
+
+@{
+    ViewBag.Title = "Browse";
+}
+
+
+<script type="text/javascript">
+    function OnSuccess(data) {
+        var info = $('#info' + data.Id);
+        info.empty();
+        //if (data.Info == null)
+        //    return;
+        for (var i = 0; i < data.Info.length; i++) {
+            info.append('<p class="lead">' + data.Info[i] + '</p>');
+        }
+    }
+</script>
+
+@*<h2>Browse</h2>*@
+<h2>Інформація про  типи корпусів</h2>
+<p>@Html.ActionLink("Назад", "Index")</p>
+
+@foreach (var m in @Model)
+{
+    <div class="row panel">
+        <div class="col-xs-12">
+            <h3><strong>@m.Name</strong></h3>
+            <strong class="lead">Абревіатура: @m.Abbreviation</strong><br />
+            <strong class="lead">Кількість рядів ніжок: @m.NumberRows</strong><br />
+            <hr />
+            @if (m.HasInfo)
+            {
+                <div id=@string.Concat("info", @m.Id)>
+                    @using (Ajax.BeginForm(
+                        "JsonIdInfo",
+                        new AjaxOptions
+                        {
+                            OnSuccess = "OnSuccess"
+                        }))
+                    {
+                        @Html.Hidden("id", @m.Id)
+                        <input type="submit" value="Опис"  style="background-color:#e0e0e0; color: black;"/>
+                    }
+                </div>
+            }
+            <hr />
+        </div>
+    </div>
+}
+
+

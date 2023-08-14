@@ -1,0 +1,21 @@
+﻿@model IEnumerable<MicrocontrollersInfo.Web.Models.MicrocontrollersBrowsingModel>
+
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Brand)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.housingTypeName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BitRate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+
+    </tr>
+}

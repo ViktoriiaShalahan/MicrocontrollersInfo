@@ -1,0 +1,45 @@
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.IO\bin\Debug\Common.IO.dll
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.IO\bin\Debug\Common.IO.pdb
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.IO\bin\Debug\Common.Entities.dll
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.IO\bin\Debug\Common.Entities.pdb
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.IO\obj\Debug\Common.IO.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.IO\obj\Debug\Common.IO.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.IO\obj\Debug\Common.IO.csproj.CopyComplete
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.IO\obj\Debug\Common.IO.dll
+C:\Users\victoriashalahan\Downloads\MicrocontrollersInfo.ConsoleEditor\Common.IO\obj\Debug\Common.IO.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.IO\bin\Debug\Common.IO.dll
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.IO\bin\Debug\Common.IO.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.IO\bin\Debug\Common.Entities.dll
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.IO\bin\Debug\Common.Entities.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.IO\obj\Debug\Common.IO.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.IO\obj\Debug\Common.IO.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.IO\obj\Debug\Common.IO.csproj.CopyComplete
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.IO\obj\Debug\Common.IO.dll
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo.ConsoleEditor\Common.IO\obj\Debug\Common.IO.pdb
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.IO\bin\Debug\Common.IO.dll
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.IO\bin\Debug\Common.IO.pdb
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.IO\bin\Debug\Common.Entities.dll
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.IO\bin\Debug\Common.Entities.pdb
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.csproj.CopyComplete
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.dll
+C:\Users\victoriashalahan\source\repos\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.pdb
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.IO\bin\Debug\Common.IO.dll
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.IO\bin\Debug\Common.IO.pdb
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.IO\bin\Debug\Common.Entities.dll
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.IO\bin\Debug\Common.Entities.pdb
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.csproj.CopyComplete
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.dll
+C:\Users\victoriashalahan\Documents\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.IO\bin\Debug\Common.IO.dll
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.IO\bin\Debug\Common.IO.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.IO\bin\Debug\Common.Entities.dll
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.IO\bin\Debug\Common.Entities.pdb
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.csproj.AssemblyReference.cache
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.csproj.CoreCompileInputs.cache
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.csproj.CopyComplete
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.dll
+C:\Users\victoriashalahan\VTC 2022-2023\MicrocontrollersInfo\Common.IO\obj\Debug\Common.IO.pdb

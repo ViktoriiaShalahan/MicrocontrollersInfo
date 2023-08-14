@@ -1,0 +1,37 @@
+﻿@model IEnumerable<MicrocontrollersInfo.Entity.Microcontrollers>
+
+@{
+    ViewBag.Title = "MicrocontrollersByHousingTypeInfo";
+    Layout = "~/Views/Shared/_CategoryLayout.cshtml";
+}
+
+@*<h2>MicrocontrollersByHousingTypeInfo</h2>*@
+<h2>Мікроконтролери та типи корпусів</h2>
+<p>@Html.ActionLink("Назад", "Index")</p>
+
+@foreach (var m in @Model)
+{
+    <div class="row panel" >
+        <div class="col-xs-12" >
+            <h3>
+                <strong >@m.brand</strong>
+            </h3>
+            <strong class="lead">Тип корпусу: @m.housingType</strong><br />
+            <strong class="lead">Розрядність: @m.bitRate</strong><br />
+            <strong class="lead">Цінa (грн.): @m.price </strong><br />
+            @if (!string.IsNullOrEmpty(m.note))
+            {
+                <strong class="lead">Примітка:</strong><br />
+                @Html.Partial("_DescriptiveBlock", m.note)
+            }
+        </div>
+    </div>
+    @Html.Action("_DescriptiveInfo", new { id = @m.Id })
+}
+
+
+@section NavMenu {
+    @Html.Action("UsedHousingTypeMenu", "Navigation",
+         new { categoryName = ViewBag.SelectedCategoryName })
+}
+
